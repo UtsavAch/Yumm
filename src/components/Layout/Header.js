@@ -1,7 +1,6 @@
 import { Fragment } from "react";
 
 import HeaderCartButton from "./HeaderCartButton";
-
 import classes from "./Header.module.css";
 import mealsImage from "../../assets/meals.jpg";
 
